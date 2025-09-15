@@ -4,7 +4,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-
+import edu.uvm.ConversorBase5;
 @DisplayName("Pruebas del Conversor a Base 5")
 class ConversorBase5Test {
 

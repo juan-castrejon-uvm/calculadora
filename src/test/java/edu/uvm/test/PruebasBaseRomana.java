@@ -4,7 +4,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-
+import edu.uvm.ConversorNumeroRomano;
 @DisplayName("Pruebas del Conversor de Números Romanos (con negativos)")
 class ConversorNumeroRomanoTest {
 
